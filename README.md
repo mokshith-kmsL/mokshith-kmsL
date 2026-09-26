@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently solving questions on LC
+I'm currently working on DevOps
 
 
 ## 🌐 Socials:
